@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Krishna</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Computer Science Student from India</h3>
 
 
 - 🌱 I’m currently learning **Flutter**
