@@ -11,18 +11,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.leetcode.com/mohan137" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50" />
     </a>
     <a href="https://www.linkedin.com/in/mohan-krishna-thalla-a423a3301/" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="50" width="50" />
     </a>
     <a href="https://www.codechef.com/users/mohan137" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/5/58/CodeChef_logo.png" alt="CodeChef" height="30" width="40" />
+        <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/codechef-1860167-1589463.png" alt="CodeChef" height="50" width="50" />
     </a>
     <a href="https://www.hackerrank.com/profile/22AG1A05I6" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" />
     </a>
 </p>
+
 
 
 
