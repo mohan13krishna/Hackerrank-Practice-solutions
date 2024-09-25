@@ -1,4 +1,4 @@
-//author: mohan13krishna
+#author:mohan13krishna
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 # Python Program to design a Door Mat with Welcome written in the center

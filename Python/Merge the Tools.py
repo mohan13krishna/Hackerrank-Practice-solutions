@@ -1,4 +1,4 @@
-// author: mohan13krishna
+#author:mohan13krishna
 
 def merge_the_tools(string, k):
     while string:

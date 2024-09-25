@@ -1,4 +1,4 @@
-//author:mohan13krishna
+#author:mohan13krishna
 
 def print_rangoli(size):
     # your code goes here

@@ -1,5 +1,4 @@
-//author: mohan13krishna
-
+#author:mohan13krishna
 number = int(input())
 
 if number % 2 != 0:

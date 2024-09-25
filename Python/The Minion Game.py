@@ -1,4 +1,4 @@
-// author: mohan13krishna
+#author:mohan13krishna
 
 def minion_game(string): 
     stuart_score=0

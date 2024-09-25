@@ -1,4 +1,4 @@
-// author: mohan13krishna
+#author:mohan13krishna
 
 
 thickness = int(input()) #This must be an odd number

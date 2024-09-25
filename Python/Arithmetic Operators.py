@@ -1,5 +1,4 @@
-// author:mohan13krishna
-
+#author:mohan13krishna
 a = int(input())
 b = int(input())
 

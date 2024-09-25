@@ -1,5 +1,4 @@
-// author: mohan13krishna
-
+#author:mohan13krishna
 
 def count_substring(string, sub_string):
     count=0

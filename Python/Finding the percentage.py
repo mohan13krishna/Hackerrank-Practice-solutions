@@ -1,5 +1,4 @@
-// author : mohan13krishna
-
+#author:mohan13krishna
 
 n = int(input())
 students = {}

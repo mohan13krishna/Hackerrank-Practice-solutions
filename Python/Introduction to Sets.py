@@ -1,4 +1,4 @@
-//author: mohan13krishna
+#author:mohan13krishna
 
 def average(arr):
     s = set(arr)

@@ -1,4 +1,4 @@
-// author: mohan13krishna
+#author:mohan13krishna
 
 n = int(input())
 s = set(map(int, input().split()))
